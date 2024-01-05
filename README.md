@@ -60,7 +60,7 @@ Contributions are welcome! Feel free to fork the repository, open issues, and su
 
 ## Clone the Repo on Replit
 
-[![Clone on Replit](https://img.shields.io/badge/Clone%20on%20Replit-purple?logo=github)](https://replit.com/github/tucommenceapousser/lara)
+[![Clone on Replit](https://img.shields.io/badge/Clone%20on%20Replit-#fff000?logo=github)](https://replit.com/github/tucommenceapousser/lara)
 
 ## License
 
