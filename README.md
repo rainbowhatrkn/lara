@@ -3,7 +3,7 @@ Bien sûr, voici la version mise à jour avec l'aperçu et le bouton pour cloner
 ```markdown
 # LARA - Credential Grabber
 
-![LARA Logo](link_to_logo.png)
+![LARA Logo](https://static.trkn.repl.co/lara.jpg)
 
 LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and stealing credentials from O365, AWS, and more.
 
