@@ -1,6 +1,6 @@
 # ***LARA*** - Credential Grabber
 
-![LARA Logo](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/lara.jpg)
+![LARA Logo](https://static-trkn.replit.app/lara.jpg)
 
 LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and stealing credentials from O.365, AWS, webmails, twilio, paypal, smtp , and more.
 
@@ -42,7 +42,7 @@ Click the "***Run***" button on Replit.
 
 ## Preview
 
-![LARA Preview](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/lara.jpg)
+![LARA Preview](https://static-trkn.replit.app/lara.jpg)
 
 ## Features
 
@@ -56,7 +56,7 @@ Click the "***Run***" button on Replit.
 [![Contactez sur Telegram](https://img.shields.io/badge/Contactez%20sur%20Telegram-blue?logo=telegram)](https://t.me/trhacknon)
 <span style="color:#25d366;">Pour le contacter par WhatsApp, cliquez sur le bouton ci-dessous :</span>
 
-[![Contactez sur WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wza.png)](https://wa.me/18056009130)
+[![Contactez sur WhatsApp](https://static-trkn.replit.app/wza.png)](https://wa.me/18056009130)
 
 ## Disclaimer
 
