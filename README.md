@@ -10,23 +10,30 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
    ```bash
    git clone tps://github.com/tucommenceapousser/lara.git
    ```
-```bash
-cd lara
-```
+   ```bash
+   cd lara
+   ```
 
    ```bash
    python main.py
    ```
-   Or click the "Run" button on Replit.
 
-## if necessary create RESULTS folder:
+
+2. Enter the password when prompted (default password: `trkn`).
+
+3. Provide the list of sites to scan.
+
+
+
+4. If necessary create Results folder
 
    ```bash
    mkdir Results
    ```
-2. Enter the password when prompted (default password: `trkn`).
 
-3. Provide the list of sites to scan.
+## Use in REPLIT
+
+Click the "Run" button on Replit.
 
 ## Quick Links
 
