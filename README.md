@@ -13,10 +13,11 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
    ```
    Or click the "Run" button on Replit.
 
-## if necessary create RESULTS folder
-```bash
-mkdir Results
-```
+## if necessary create RESULTS folder:
+
+   ```bash
+   mkdir Results
+   ```
 2. Enter the password when prompted (default password: `trkn`).
 
 3. Provide the list of sites to scan.
