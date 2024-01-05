@@ -33,7 +33,7 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
 
 ## Use in REPLIT
 
-Click the "Run" button on Replit.
+Click the "***Run***" button on Replit.
 
 ## Quick Links
 
@@ -54,11 +54,9 @@ Click the "Run" button on Replit.
 ## Contact
 
 [![Contactez sur Telegram](https://img.shields.io/badge/Contactez%20sur%20Telegram-blue?logo=telegram)](https://t.me/trhacknon)
-[![Contactez sur WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wza.png)](https://wa.me/18056009130)
 <span style="color:#25d366;">Pour le contacter par WhatsApp, cliquez sur le bouton ci-dessous :</span>
 
 [![Contactez sur WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wza.png)](https://wa.me/18056009130)
-[g-icon-stacked icon=linux large_icon=true][/g-icon-stacked]
 
 ## Disclaimer
 
