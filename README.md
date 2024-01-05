@@ -1,4 +1,4 @@
-# LARA - Credential Grabber
+# ***LARA*** - Credential Grabber
 
 ![LARA Logo](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/lara.jpg)
 
