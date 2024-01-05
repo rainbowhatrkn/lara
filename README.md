@@ -55,10 +55,11 @@ Click the "Run" button on Replit.
 
 [![Contactez sur Telegram](https://img.shields.io/badge/Contactez%20sur%20Telegram-blue?logo=telegram)](https://t.me/trhacknon)
 [![Contactez sur WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wza.png)](https://wa.me/18056009130)
+<span style="color:#25d366;">Pour le contacter par WhatsApp, cliquez sur le bouton ci-dessous :</span>
+
 <span style="background-color:#25d366; padding:10px; border-radius:5px;">
-    [![Contact on WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wza.png)](https://wa.me/18056009130)
+    [![Contact on WhatsApp](https://a494de11-f6a1-4ed5-9287-32ebbe746015-00-11ma660qvj3yn.hacker.replit.dev/wafun.png)](https://wa.me/18056009130)
 </span>
-Pour me contacter via WhatsApp, cliquez sur le bouton ci-dessus.
 ## Disclaimer
 
 This tool is intended for educational purposes only. Use it responsibly and only on systems for which you have explicit permission.
