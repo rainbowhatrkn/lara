@@ -8,7 +8,7 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
 
 1. Run the tool by executing the following command:
    ```bash
-   git clone tps://github.com/tucommenceapousser/lara.git
+   git clone https://github.com/tucommenceapousser/lara.git
    ```
    ```bash
    cd lara
