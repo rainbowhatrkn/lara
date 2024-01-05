@@ -1,6 +1,3 @@
-Bien sûr, voici la version mise à jour avec l'aperçu et le bouton pour cloner le repo sur Replit :
-
-```markdown
 # LARA - Credential Grabber
 
 ![LARA Logo](https://static.trkn.repl.co/lara.jpg)
@@ -51,6 +48,3 @@ Contributions are welcome! Feel free to fork the repository, open issues, and su
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-N'hésitez pas à me faire savoir si vous avez d'autres modifications à apporter.
