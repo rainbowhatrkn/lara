@@ -7,6 +7,12 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
 ## Usage
 
 1. Run the tool by executing the following command:
+   ```bash
+   git clone tps://github.com/tucommenceapousser/lara.git
+   ```
+```bash
+cd lara
+```
 
    ```bash
    python main.py
@@ -24,7 +30,7 @@ LARA (Login Credentials Acquisition Tool) is a tool designed for grabbing and st
 
 ## Quick Links
 
-- [GitHub Repository](https://github.com/rainbowhatrkn/lara)
+- [GitHub Repository](https://github.com/tucommenceapousser/lara)
 - [Replit Project](https://replit.com/@trkn/lara)
 
 ## Preview
