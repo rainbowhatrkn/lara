@@ -2,3 +2,9 @@
 Results/*.txt
 .replit
 replit.nix
+.gitignore
+poetry.lock
+.pythonlibs/
+.upm/
+pyproject.toml
+.git/
